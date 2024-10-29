@@ -12,7 +12,8 @@ A dedicated and compassionate Certified Nursing Assistant (CNA) with 4 years of 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-
+| Conduct a Security Audit                      |<a href="https://github.com/srnkwzoe97/Security-Audit-">Security Audit</a>
+| File Permission in Linux                      |<a href="https://github.com/srnkwzoe97/File-permission-in-LInux">File permission in Linux</a>
 
 ## Tools
 
@@ -39,4 +40,5 @@ A dedicated and compassionate Certified Nursing Assistant (CNA) with 4 years of 
 </div>
 
 ## Projects
+- <a href="https://github.com/srnkwzoe97/Security-Audit-">Security Audit</a>
 - <a href="https://github.com/srnkwzoe97/File-permission-in-LInux">File permission in Linux</a>
