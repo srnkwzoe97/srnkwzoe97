@@ -39,4 +39,4 @@ A dedicated and compassionate Certified Nursing Assistant (CNA) with 4 years of 
 </div>
 
 ## Projects
-
+- <a href="https://github.com/srnkwzoe97/File-permission-in-LInux">File permission in Linux</a>
